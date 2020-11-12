@@ -1,7 +1,7 @@
 
 let vetor = [5,4,8,1,467,2,6,7,3];
 
-function insertionSort(array){
+module.exports = function insertionSort(array){
     for (let i = 1; i < array.length; i++) {
         let escolhido =  array[i];
 

@@ -1,7 +1,7 @@
 
 let vetor = [5,4,8,1,2,6,7,3];
 
-function quickSort(array, inferior, superior) {
+module.exports = function quickSort(array, inferior, superior) {
     if(inferior < superior){
         let pivo = array[superior];
         let i, j;

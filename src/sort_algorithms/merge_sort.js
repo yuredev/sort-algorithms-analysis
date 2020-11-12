@@ -7,10 +7,10 @@ function mergeSort(vetor){
     }else{
         return vetor;
     }
-    return mescar(mergeSort(direita),mergeSort(esquerda)); 
+    return merge(mergeSort(direita),mergeSort(esquerda)); 
 }
 
-function mescar(direita, esquerda){
+function merge(direita, esquerda){
     let vetorOrdenado = []; 
     let d = 0, e = 0; 
     while(d < direita.length && e < esquerda.length){ 
@@ -24,10 +24,5 @@ function mescar(direita, esquerda){
     }
     return vetorOrdenado.concat(esquerda.slice(e)).concat(direita.slice(d));
 }
-
-let vetor = [5,1,8,0,2,6,7,54,3,1];
-
-console.log(mergeSort(vetor));
-
 
 

@@ -1,9 +1,9 @@
 const readData = require('../utils/read_data');
 const { resolve } = require('path');
 
-const randomArray = readData(resolve('..', '..', 'data', 'random.txt'));
-const ascendingArray = readData(resolve('..', '..', 'data', 'ascending.txt'));
-const descendingArray = readData(resolve('..', '..', 'data', 'descending.txt'));
+const randomArray = readData(resolve('data', 'random.txt'));
+const ascendingArray = readData(resolve('data', 'ascending.txt'));
+const descendingArray = readData(resolve('data', 'descending.txt'));
 
 /**
  * @param {string} testName nome do teste

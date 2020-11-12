@@ -1,29 +1,23 @@
-
-let vetor = [5,4,8,1,2,6,7,3];
-
 module.exports = function quickSort(array, inferior, superior) {
-    if(inferior < superior){
-        let pivo = array[superior];
-        let i, j;
-        i = inferior -1;
-        for (j = inferior; j <= superior-1; j++) {
-            if(array[j] <= pivo){
-                i++;
-                let aux = array[j]
-                array[j] = array[i]
-                array[i] = aux;
-            }   
-        }
-        let aux = array[superior]
-        array[superior] = array[i+1]
-        array[i+1] = aux;
-        pivo_pos = i+1;
-
-        quickSort(array, inferior, pivo_pos-1)
-        quickSort(array, pivo_pos+1, superior)
-
+  const copy = [ ...array ];
+  if (inferior < superior) {
+    let pivo = copy[superior];
+    let i, j;
+    i = inferior - 1;
+    for (j = inferior; j <= superior - 1; j++) {
+      if (copy[j] <= pivo) {
+        i++;
+        let aux = copy[j];
+        copy[j] = copy[i];
+        copy[i] = aux;
+      }
     }
+    let aux = copy[superior];
+    copy[superior] = copy[i + 1];
+    copy[i + 1] = aux;
+    pivo_pos = i + 1;
 
-}
-quicksort(vetor, 0, vetor.length -1 )
-console.log(vetor);
+    quickSort(copy, inferior, pivo_pos - 1);
+    quickSort(copy, pivo_pos + 1, superior);
+  }
+};

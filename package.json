@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "bubble": "node src/test/bubble_sort",
+    "insertion": "node src/test/bubble_sort",
+    "merge": "node src/test/bubble_sort",
+		"quick": "node src/test/bubble_sort",
+		"selection": "node src/test/selection_sort"
+  },
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

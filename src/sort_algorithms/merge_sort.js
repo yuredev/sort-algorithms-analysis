@@ -10,7 +10,7 @@ function mergeSort(vetor){
     return merge(mergeSort(direita),mergeSort(esquerda)); 
 }
 
-function merge(direita, esquerda){
+module.exports = function merge(direita, esquerda){
     let vetorOrdenado = []; 
     let d = 0, e = 0; 
     while(d < direita.length && e < esquerda.length){ 

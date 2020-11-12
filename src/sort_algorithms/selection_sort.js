@@ -1,5 +1,5 @@
 
-function selectionSort(array){
+module.exports = function selectionSort(array){
     for (let i = 0; i < array.length; i++) {
         let indiceMenor = i;
         for (let j = i; j < array.length; j++) {

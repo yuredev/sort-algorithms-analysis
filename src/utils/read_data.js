@@ -7,7 +7,7 @@ const { readFileSync } = require('fs');
  */
 function readData(path) {
   const content = readFileSync(path).toString();
-  const array = content.split('\r\n').map((el) => Number(el));
+  const array = content.split('\n');
   return array;
 }
 

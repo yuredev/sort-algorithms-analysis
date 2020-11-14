@@ -1,0 +1,62 @@
+Executando bubble sort com array de 300000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+bubble em array aleatório: 170773.2960 milisegundos
+bubble em array crescente: 88225.4812 milisegundos
+bubble em array decrescente: 102510.1458 milisegundos
+
+------------------- Execução 2 -----------------
+
+bubble em array aleatório: 170511.5095 milisegundos
+bubble em array crescente: 88010.1127 milisegundos
+bubble em array decrescente: 102427.1945 milisegundos
+
+------------------- Execução 3 -----------------
+
+bubble em array aleatório: 170358.1990 milisegundos
+bubble em array crescente: 87833.4220 milisegundos
+bubble em array decrescente: 102575.5896 milisegundos
+
+------------------- Execução 4 -----------------
+
+bubble em array aleatório: 170574.7651 milisegundos
+bubble em array crescente: 88068.2766 milisegundos
+bubble em array decrescente: 102423.5412 milisegundos
+
+------------------- Execução 5 -----------------
+
+bubble em array aleatório: 172453.6898 milisegundos
+bubble em array crescente: 89412.0166 milisegundos
+bubble em array decrescente: 102484.9318 milisegundos
+
+
+
+
+
+
+Executando bubble sort com array de 1000000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+bubble em array aleatório: 2177477.2674 milisegundos
+bubble em array crescente: 1030801.4086 milisegundos
+bubble em array decrescente: 1186671.9973 milisegundos
+
+------------------- Execução 2 -----------------
+
+bubble em array aleatório: 2172750.2888 milisegundos
+bubble em array crescente: 1030105.9910 milisegundos
+bubble em array decrescente: 1183888.6117 milisegundos
+
+------------------- Execução 3 -----------------
+
+bubble em array aleatório: 2170786.1087 milisegundos
+bubble em array crescente: 1028350.0711 milisegundos
+bubble em array decrescente: 1179337.8344 milisegundos
+
+------------------- Execução 4 -----------------
+
+bubble em array aleatório: 2177167.1884 milisegundos
+bubble em array crescente: 1033872.0646 milisegundos
+bubble em array decrescente: 1184348.5837 milisegundos

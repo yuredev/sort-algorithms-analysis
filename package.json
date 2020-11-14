@@ -1,18 +1,5 @@
 {
   "scripts": {
-    "bubble-mean": "npm run bubble && npm run bubble && npm run bubble && npm run bubble && npm run bubble",
-    "bubble": "node src/test/test_bubble_sort",
-    "insertion-mean": "npm run insertion && npm run insertion && npm run insertion && npm run insertion && npm run insertion",
-    "insertion": "node src/test/test_insertion_sort",
-    "merge-mean": "npm run merge && npm run merge && npm run merge && npm run merge && npm run merge",
-    "merge": "node src/test/test_merge_sort",
-    "quick-mean": "npm run quick && npm run quick && npm run quick && npm run quick && npm run quick",
-    "quick": "node src/test/test_bubble_sort",
-    "selection-mean": "npm run selection && npm run selection && npm run selection && npm run selection && npm run selection",
-		"selection": "node src/test/test_selection_sort"
-  },
-  "name": "src",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+    "start": "node ./src"
+  }
 }

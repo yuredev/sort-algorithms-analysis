@@ -1,3 +1,10 @@
+
+/**
+ * 
+ * @param {*} array
+ * @returns {number[]} 
+ */
+
 module.exports = function mergeSort(array) {
   let right, left;
   const copy = [ ...array ];

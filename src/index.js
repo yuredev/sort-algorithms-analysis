@@ -1,11 +1,4 @@
-const bubble = require('./sort_algorithms/bubble_sort');
-const insertion = require('./sort_algorithms/insertion_sort');
-const merge = require('./sort_algorithms/merge_sort');
-const quick = require('./sort_algorithms/quick_sort');
-const selection = require('./sort_algorithms/selection_sort');
-const runBenchmark = require('./benchmark');
-
-if (!process.argv[0] || !process.argv[1], !process.argv[2]) {
+if (!process.argv[2] || !process.argv[3], !process.argv[4]) {
   console.log('***** ERRO: Faltando parametros *****');
   console.log('Use: ');
   console.log('\n $ npm run start <algoritmo> <tamanho_array> <numero_execucoes>');
@@ -15,12 +8,13 @@ if (!process.argv[0] || !process.argv[1], !process.argv[2]) {
 }
 
 function main(algoritmName, arraySize, times) {
+  const runBenchmark = require('./benchmark');
   const sortAlgoritms = {
-    bubble,
-    insertion,
-    merge,
-    quick,
-    selection
+    bubble: require('./sort_algorithms/bubble_sort'),
+    insertion: require('./sort_algorithms/insertion_sort'),
+    merge: require('./sort_algorithms/merge_sort'),
+    quick: require('./sort_algorithms/quick_sort'),
+    selection: require('./sort_algorithms/selection_sort')
   }
   console.log(`Executando ${algoritmName} sort com array de ${arraySize} elementos ${times} vezes`);
   for (let i = 1; i <= times; i++) {

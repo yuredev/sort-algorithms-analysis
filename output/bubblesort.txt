@@ -60,3 +60,195 @@ bubble em array decrescente: 1179337.8344 milisegundos
 bubble em array aleatório: 2177167.1884 milisegundos
 bubble em array crescente: 1033872.0646 milisegundos
 bubble em array decrescente: 1184348.5837 milisegundos
+
+------------------- Execução 1 -----------------
+
+bubble em array aleatório: 2190194.2759 milisegundos
+bubble em array crescente: 1099850.8665 milisegundos
+bubble em array decrescente: 1227647.3510 milisegundos
+
+
+
+
+
+
+
+
+
+
+
+Executando bubble sort com array de 10000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+bubble em array aleatório: 189.1295 milisegundos
+bubble em array crescente: 106.8349 milisegundos
+bubble em array decrescente: 116.6669 milisegundos
+
+------------------- Execução 2 -----------------
+
+bubble em array aleatório: 201.1229 milisegundos
+bubble em array crescente: 106.7272 milisegundos
+bubble em array decrescente: 116.4728 milisegundos
+
+------------------- Execução 3 -----------------
+
+bubble em array aleatório: 185.1653 milisegundos
+bubble em array crescente: 136.8162 milisegundos
+bubble em array decrescente: 116.1591 milisegundos
+
+------------------- Execução 4 -----------------
+
+bubble em array aleatório: 188.0243 milisegundos
+bubble em array crescente: 106.3421 milisegundos
+bubble em array decrescente: 137.5285 milisegundos
+
+------------------- Execução 5 -----------------
+
+bubble em array aleatório: 184.3816 milisegundos
+bubble em array crescente: 118.3898 milisegundos
+bubble em array decrescente: 134.5987 milisegundos
+
+
+
+
+
+Executando bubble sort com array de 20000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+bubble em array aleatório: 813.4000 milisegundos
+bubble em array crescente: 397.6290 milisegundos
+bubble em array decrescente: 459.9692 milisegundos
+
+------------------- Execução 2 -----------------
+
+bubble em array aleatório: 806.9144 milisegundos
+bubble em array crescente: 396.9657 milisegundos
+bubble em array decrescente: 459.9869 milisegundos
+
+------------------- Execução 3 -----------------
+
+bubble em array aleatório: 808.4624 milisegundos
+bubble em array crescente: 397.8768 milisegundos
+bubble em array decrescente: 458.7764 milisegundos
+
+------------------- Execução 4 -----------------
+
+bubble em array aleatório: 812.3831 milisegundos
+bubble em array crescente: 399.5818 milisegundos
+bubble em array decrescente: 461.0297 milisegundos
+
+------------------- Execução 5 -----------------
+
+bubble em array aleatório: 804.5240 milisegundos
+bubble em array crescente: 397.7884 milisegundos
+bubble em array decrescente: 459.4002 milisegundos
+
+
+
+
+
+
+Executando bubble sort com array de 30000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+bubble em array aleatório: 1938.9338 milisegundos
+bubble em array crescente: 889.6330 milisegundos
+bubble em array decrescente: 1029.7495 milisegundos
+
+------------------- Execução 2 -----------------
+
+bubble em array aleatório: 1900.5876 milisegundos
+bubble em array crescente: 888.5098 milisegundos
+bubble em array decrescente: 1029.5356 milisegundos
+
+------------------- Execução 3 -----------------
+
+bubble em array aleatório: 1894.2439 milisegundos
+bubble em array crescente: 892.5507 milisegundos
+bubble em array decrescente: 1030.1479 milisegundos
+
+------------------- Execução 4 -----------------
+
+bubble em array aleatório: 1896.5859 milisegundos
+bubble em array crescente: 892.1200 milisegundos
+bubble em array decrescente: 1030.8206 milisegundos
+
+------------------- Execução 5 -----------------
+
+bubble em array aleatório: 1897.5713 milisegundos
+bubble em array crescente: 893.9140 milisegundos
+bubble em array decrescente: 1030.4201 milisegundos
+
+
+
+
+
+Executando bubble sort com array de 100000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+bubble em array aleatório: 18385.3792 milisegundos
+bubble em array crescente: 11069.4645 milisegundos
+bubble em array decrescente: 12521.2974 milisegundos
+
+------------------- Execução 2 -----------------
+
+bubble em array aleatório: 16651.8401 milisegundos
+bubble em array crescente: 10762.5483 milisegundos
+bubble em array decrescente: 12535.2499 milisegundos
+
+------------------- Execução 3 -----------------
+
+bubble em array aleatório: 16649.4647 milisegundos
+bubble em array crescente: 10156.8688 milisegundos
+bubble em array decrescente: 11891.8881 milisegundos
+
+------------------- Execução 4 -----------------
+
+bubble em array aleatório: 17419.2705 milisegundos
+bubble em array crescente: 10691.3640 milisegundos
+bubble em array decrescente: 11886.8461 milisegundos
+
+------------------- Execução 5 -----------------
+
+bubble em array aleatório: 18142.7547 milisegundos
+bubble em array crescente: 11497.9458 milisegundos
+bubble em array decrescente: 12065.3086 milisegundos
+
+
+
+
+Executando bubble sort com array de 200000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+bubble em array aleatório: 71462.6022 milisegundos
+bubble em array crescente: 38937.8441 milisegundos
+bubble em array decrescente: 45402.7289 milisegundos
+
+------------------- Execução 2 -----------------
+
+bubble em array aleatório: 70631.0734 milisegundos
+bubble em array crescente: 39063.4100 milisegundos
+bubble em array decrescente: 45445.9245 milisegundos
+
+------------------- Execução 3 -----------------
+
+bubble em array aleatório: 70573.7655 milisegundos
+bubble em array crescente: 38941.8470 milisegundos
+bubble em array decrescente: 45400.9298 milisegundos
+
+------------------- Execução 4 -----------------
+
+bubble em array aleatório: 70594.6811 milisegundos
+bubble em array crescente: 38988.9772 milisegundos
+bubble em array decrescente: 45407.0764 milisegundos
+
+------------------- Execução 5 -----------------
+
+bubble em array aleatório: 70543.0152 milisegundos
+bubble em array crescente: 38932.7480 milisegundos
+bubble em array decrescente: 45432.6831 milisegundos

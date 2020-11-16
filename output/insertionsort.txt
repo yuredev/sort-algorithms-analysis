@@ -1,0 +1,129 @@
+Executando insertion sort com array de 100000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+insertion em array aleatório: 3322.7707 milisegundos
+insertion em array crescente: 6.0859 milisegundos
+insertion em array decrescente: 13788.8295 milisegundos
+
+------------------- Execução 2 -----------------
+
+insertion em array aleatório: 3439.0918 milisegundos
+insertion em array crescente: 2.8823 milisegundos
+insertion em array decrescente: 13697.4609 milisegundos
+
+------------------- Execução 3 -----------------
+
+insertion em array aleatório: 3438.8685 milisegundos
+insertion em array crescente: 3.0491 milisegundos
+insertion em array decrescente: 13696.0099 milisegundos
+
+------------------- Execução 4 -----------------
+
+insertion em array aleatório: 3434.2891 milisegundos
+insertion em array crescente: 4.8396 milisegundos
+insertion em array decrescente: 13325.4418 milisegundos
+
+------------------- Execução 5 -----------------
+
+insertion em array aleatório: 3364.8113 milisegundos
+insertion em array crescente: 1.8721 milisegundos
+insertion em array decrescente: 13341.6838 milisegundos
+
+
+
+
+
+
+Executando insertion sort com array de 200000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+insertion em array aleatório: 16663.6212 milisegundos
+insertion em array crescente: 10.5804 milisegundos
+insertion em array decrescente: 54965.4373 milisegundos
+
+------------------- Execução 2 -----------------
+
+insertion em array aleatório: 17188.1747 milisegundos
+insertion em array crescente: 8.2632 milisegundos
+insertion em array decrescente: 54968.6625 milisegundos
+
+------------------- Execução 3 -----------------
+
+insertion em array aleatório: 17172.9141 milisegundos
+insertion em array crescente: 8.3380 milisegundos
+insertion em array decrescente: 54971.5514 milisegundos
+
+------------------- Execução 4 -----------------
+
+insertion em array aleatório: 17207.5669 milisegundos
+insertion em array crescente: 8.1656 milisegundos
+insertion em array decrescente: 54993.5636 milisegundos
+
+------------------- Execução 5 -----------------
+
+insertion em array aleatório: 17190.9242 milisegundos
+insertion em array crescente: 7.0949 milisegundos
+insertion em array decrescente: 54986.5346 milisegundos
+
+
+
+
+
+Executando insertion sort com array de 300000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+insertion em array aleatório: 43691.0057 milisegundos
+insertion em array crescente: 17.3897 milisegundos
+insertion em array decrescente: 123737.4750 milisegundos
+
+------------------- Execução 2 -----------------
+
+insertion em array aleatório: 44639.9215 milisegundos
+insertion em array crescente: 18.0307 milisegundos
+insertion em array decrescente: 124173.7774 milisegundos
+
+------------------- Execução 3 -----------------
+
+insertion em array aleatório: 44682.0725 milisegundos
+insertion em array crescente: 18.2072 milisegundos
+insertion em array decrescente: 120354.2984 milisegundos
+
+------------------- Execução 4 -----------------
+
+insertion em array aleatório: 43386.6363 milisegundos
+insertion em array crescente: 7.2090 milisegundos
+insertion em array decrescente: 120355.1581 milisegundos
+
+------------------- Execução 5 -----------------
+
+insertion em array aleatório: 43341.2178 milisegundos
+insertion em array crescente: 12.8366 milisegundos
+insertion em array decrescente: 120231.0292 milisegundos
+
+
+
+
+
+
+Executando insertion sort com array de 1000000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+insertion em array aleatório: 617417.4732 milisegundos
+insertion em array crescente: 53.1003 milisegundos
+insertion em array decrescente: 1483718.7517 milisegundos
+
+------------------- Execução 2 -----------------
+
+insertion em array aleatório: 675657.8286 milisegundos
+insertion em array crescente: 45.8723 milisegundos
+insertion em array decrescente: 1507345.3529 milisegundos
+
+------------------- Execução 3 -----------------
+
+insertion em array aleatório: 633017.3126 milisegundos
+insertion em array crescente: 46.1903 milisegundos
+insertion em array decrescente: 1426328.2947 milisegundos

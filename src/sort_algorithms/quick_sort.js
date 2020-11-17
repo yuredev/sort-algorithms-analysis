@@ -1,4 +1,8 @@
-module.exports = function quickSort(array, inferior, superior) {
+module.exports = function quickSort(array){
+  return quick(array, 0, array.length);
+}
+
+function quick(array, inferior, superior) {
   const copy = [ ...array ];
   let pivo_pos;
   if (inferior < superior) {
@@ -14,9 +18,10 @@ module.exports = function quickSort(array, inferior, superior) {
     [copy[superior-1],copy[i+1]] = [copy[i+1],copy[superior-1]];
     pivo_pos = i + 1;
 
-    quickSort(copy, inferior, pivo_pos - 1);
-    quickSort(copy, pivo_pos + 1, superior);
+    quick(copy, inferior, pivo_pos - 1);
+    quick(copy, pivo_pos + 1, superior);
 
     return copy;
   }
 };
+

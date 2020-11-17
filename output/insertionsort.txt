@@ -127,3 +127,15 @@ insertion em array decrescente: 1507345.3529 milisegundos
 insertion em array aleatório: 633017.3126 milisegundos
 insertion em array crescente: 46.1903 milisegundos
 insertion em array decrescente: 1426328.2947 milisegundos
+
+------------------- Execução 4 -----------------
+
+insertion em array aleatório: 657933.4864 milisegundos
+insertion em array crescente: 59.1251 milisegundos
+insertion em array decrescente: 1433467.1710 milisegundos
+
+------------------- Execução 5 -----------------
+
+insertion em array aleatório: 631439.8027 milisegundos
+insertion em array crescente: 47.3813 milisegundos
+insertion em array decrescente: 1406737.2714 milisegundos

@@ -1,0 +1,11 @@
+
+> @ start /home/alyson/Documentos/2020.6/sort-algorithms-analysis
+> node ./src "merge" "10000" "1" "cat"
+
+Executando merge sort com array de 10000 elementos 1 vezes
+
+------------------- Execução 1 -----------------
+
+merge em array aleatório: 13.1517 milisegundos
+merge em array crescente: 11.1721 milisegundos
+merge em array decrescente: 7.4930 milisegundos

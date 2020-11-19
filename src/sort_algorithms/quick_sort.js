@@ -1,27 +1,36 @@
-module.exports = function quickSort(array){
-  return quick(array, 0, array.length);
+function particao (items, inferior, superior) {
+  var pivo = items[Math.floor((inferior + superior) / 2)] // elemento do meio como pivo
+
+  while (inferior <= superior) {
+    while (items[inferior] < pivo) {
+      inferior++
+    }
+    while (items[superior] > pivo) {
+      superior--
+    }
+    if (inferior <= superior) {
+      ;[items[inferior], items[superior]] = [items[superior], items[inferior]]
+      inferior++
+      superior--
+    }
+  }
+
+  return inferior
 }
 
-function quick(array, inferior, superior) {
-  const copy = [ ...array ];
-  let pivo_pos;
-  if (inferior < superior) {
-    let pivo = copy[superior-1];
-    let i, j;
-    i = inferior - 1;
-    for (j = inferior; j < superior - 1; j++) {
-      if (copy[j] <= pivo) {
-        i++;
-        [copy[j],copy[i]] = [copy[i],copy[j]];
-      }
+function quick (vetor, inferior, superior) {
+  if (vetor.length > 1) {
+    var pivo = particao(vetor, inferior, superior)
+    if (inferior < pivo - 1) {
+      quick(vetor, inferior, pivo - 1)
     }
-    [copy[superior-1],copy[i+1]] = [copy[i+1],copy[superior-1]];
-    pivo_pos = i + 1;
-
-    quick(copy, inferior, pivo_pos - 1);
-    quick(copy, pivo_pos + 1, superior);
-
-    return copy;
+    if (pivo < superior) {
+      quick(vetor, pivo, superior)
+    }
   }
-};
+  return vetor
+}
 
+module.exports = function quickSort(array){
+  return quick(array, 0, array.length-1);
+}

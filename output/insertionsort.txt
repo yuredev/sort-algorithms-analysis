@@ -139,3 +139,117 @@ insertion em array decrescente: 1433467.1710 milisegundos
 insertion em array aleatório: 631439.8027 milisegundos
 insertion em array crescente: 47.3813 milisegundos
 insertion em array decrescente: 1406737.2714 milisegundos
+
+
+
+
+
+
+
+
+
+Executando insertion sort com array de 10000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+insertion em array aleatório: 85.0588 milisegundos
+insertion em array crescente: 0.8744 milisegundos
+insertion em array decrescente: 142.6515 milisegundos
+
+------------------- Execução 2 -----------------
+
+insertion em array aleatório: 79.6112 milisegundos
+insertion em array crescente: 0.0653 milisegundos
+insertion em array decrescente: 147.7066 milisegundos
+
+------------------- Execução 3 -----------------
+
+insertion em array aleatório: 66.5429 milisegundos
+insertion em array crescente: 0.0364 milisegundos
+insertion em array decrescente: 137.8727 milisegundos
+
+------------------- Execução 4 -----------------
+
+insertion em array aleatório: 66.7991 milisegundos
+insertion em array crescente: 0.0379 milisegundos
+insertion em array decrescente: 137.3340 milisegundos
+
+------------------- Execução 5 -----------------
+
+insertion em array aleatório: 68.3761 milisegundos
+insertion em array crescente: 0.0339 milisegundos
+insertion em array decrescente: 140.9514 milisegundos
+
+
+
+
+
+
+
+Executando insertion sort com array de 20000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+insertion em array aleatório: 270.0498 milisegundos
+insertion em array crescente: 1.3944 milisegundos
+insertion em array decrescente: 546.2090 milisegundos
+
+------------------- Execução 2 -----------------
+
+insertion em array aleatório: 277.1974 milisegundos
+insertion em array crescente: 0.1627 milisegundos
+insertion em array decrescente: 545.4982 milisegundos
+
+------------------- Execução 3 -----------------
+
+insertion em array aleatório: 273.5714 milisegundos
+insertion em array crescente: 0.1612 milisegundos
+insertion em array decrescente: 546.4744 milisegundos
+
+------------------- Execução 4 -----------------
+
+insertion em array aleatório: 272.6521 milisegundos
+insertion em array crescente: 0.1612 milisegundos
+insertion em array decrescente: 544.7318 milisegundos
+
+------------------- Execução 5 -----------------
+
+insertion em array aleatório: 272.7343 milisegundos
+insertion em array crescente: 0.1691 milisegundos
+insertion em array decrescente: 551.8297 milisegundos
+
+
+
+
+
+Executando insertion sort com array de 30000 elementos 5 vezes
+
+------------------- Execução 1 -----------------
+
+insertion em array aleatório: 610.8795 milisegundos
+insertion em array crescente: 1.0065 milisegundos
+insertion em array decrescente: 1237.0090 milisegundos
+
+------------------- Execução 2 -----------------
+
+insertion em array aleatório: 615.7580 milisegundos
+insertion em array crescente: 0.2322 milisegundos
+insertion em array decrescente: 1228.9318 milisegundos
+
+------------------- Execução 3 -----------------
+
+insertion em array aleatório: 615.1553 milisegundos
+insertion em array crescente: 0.2350 milisegundos
+insertion em array decrescente: 1232.1941 milisegundos
+
+------------------- Execução 4 -----------------
+
+insertion em array aleatório: 610.4053 milisegundos
+insertion em array crescente: 0.2280 milisegundos
+insertion em array decrescente: 1231.9904 milisegundos
+
+------------------- Execução 5 -----------------
+
+insertion em array aleatório: 606.3482 milisegundos
+insertion em array crescente: 0.3057 milisegundos
+insertion em array decrescente: 1225.1871 milisegundos

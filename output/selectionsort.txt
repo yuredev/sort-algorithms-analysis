@@ -2,33 +2,33 @@ Executando selection sort com array de 10000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-selection em array aleatório: 85.6516 milisegundos
-selection em array crescente: 103.0181 milisegundos
-selection em array decrescente: 98.6145 milisegundos
+selection em array aleatório: 85,6516 milisegundos
+selection em array crescente: 103,0181 milisegundos
+selection em array decrescente: 98,6145 milisegundos
 
 ------------------- Execução 2 -----------------
 
-selection em array aleatório: 98.0733 milisegundos
-selection em array crescente: 100.0954 milisegundos
-selection em array decrescente: 98.6360 milisegundos
+selection em array aleatório: 98,0733 milisegundos
+selection em array crescente: 100,0954 milisegundos
+selection em array decrescente: 98,6360 milisegundos
 
 ------------------- Execução 3 -----------------
 
-selection em array aleatório: 98.0395 milisegundos
-selection em array crescente: 118.4453 milisegundos
-selection em array decrescente: 98.2406 milisegundos
+selection em array aleatório: 98,0395 milisegundos
+selection em array crescente: 118,4453 milisegundos
+selection em array decrescente: 98,2406 milisegundos
 
 ------------------- Execução 4 -----------------
 
-selection em array aleatório: 98.0439 milisegundos
-selection em array crescente: 104.7258 milisegundos
-selection em array decrescente: 117.3475 milisegundos
+selection em array aleatório: 98,0439 milisegundos
+selection em array crescente: 104,7258 milisegundos
+selection em array decrescente: 117,3475 milisegundos
 
 ------------------- Execução 5 -----------------
 
-selection em array aleatório: 98.2787 milisegundos
-selection em array crescente: 115.9009 milisegundos
-selection em array decrescente: 99.0690 milisegundos
+selection em array aleatório: 98,2787 milisegundos
+selection em array crescente: 115,9009 milisegundos
+selection em array decrescente: 99,0690 milisegundos
 
 
 
@@ -42,33 +42,33 @@ Executando selection sort com array de 20000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-selection em array aleatório: 332.1387 milisegundos
-selection em array crescente: 394.7885 milisegundos
-selection em array decrescente: 394.4524 milisegundos
+selection em array aleatório: 332,1387 milisegundos
+selection em array crescente: 394,7885 milisegundos
+selection em array decrescente: 394,4524 milisegundos
 
 ------------------- Execução 2 -----------------
 
-selection em array aleatório: 390.6943 milisegundos
-selection em array crescente: 395.4617 milisegundos
-selection em array decrescente: 394.2356 milisegundos
+selection em array aleatório: 390,6943 milisegundos
+selection em array crescente: 395,4617 milisegundos
+selection em array decrescente: 394,2356 milisegundos
 
 ------------------- Execução 3 -----------------
 
-selection em array aleatório: 390.5812 milisegundos
-selection em array crescente: 392.5202 milisegundos
-selection em array decrescente: 394.3899 milisegundos
+selection em array aleatório: 390,5812 milisegundos
+selection em array crescente: 392,5202 milisegundos
+selection em array decrescente: 394,3899 milisegundos
 
 ------------------- Execução 4 -----------------
 
-selection em array aleatório: 390.6959 milisegundos
-selection em array crescente: 391.7919 milisegundos
-selection em array decrescente: 397.5135 milisegundos
+selection em array aleatório: 390,6959 milisegundos
+selection em array crescente: 391,7919 milisegundos
+selection em array decrescente: 397,5135 milisegundos
 
 ------------------- Execução 5 -----------------
 
-selection em array aleatório: 390.8032 milisegundos
-selection em array crescente: 391.9473 milisegundos
-selection em array decrescente: 394.3988 milisegundos
+selection em array aleatório: 390,8032 milisegundos
+selection em array crescente: 391,9473 milisegundos
+selection em array decrescente: 394,3988 milisegundos
 
 
 
@@ -79,33 +79,33 @@ Executando selection sort com array de 30000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-selection em array aleatório: 738.3133 milisegundos
-selection em array crescente: 879.3476 milisegundos
-selection em array decrescente: 896.3679 milisegundos
+selection em array aleatório: 738,3133 milisegundos
+selection em array crescente: 879,3476 milisegundos
+selection em array decrescente: 896,3679 milisegundos
 
 ------------------- Execução 2 -----------------
 
-selection em array aleatório: 877.8405 milisegundos
-selection em array crescente: 879.5102 milisegundos
-selection em array decrescente: 897.4256 milisegundos
+selection em array aleatório: 877,8405 milisegundos
+selection em array crescente: 879,5102 milisegundos
+selection em array decrescente: 897,4256 milisegundos
 
 ------------------- Execução 3 -----------------
 
-selection em array aleatório: 878.1039 milisegundos
-selection em array crescente: 879.1975 milisegundos
-selection em array decrescente: 896.2997 milisegundos
+selection em array aleatório: 878,1039 milisegundos
+selection em array crescente: 879,1975 milisegundos
+selection em array decrescente: 896,2997 milisegundos
 
 ------------------- Execução 4 -----------------
 
-selection em array aleatório: 877.9152 milisegundos
-selection em array crescente: 879.5250 milisegundos
-selection em array decrescente: 897.4617 milisegundos
+selection em array aleatório: 877,9152 milisegundos
+selection em array crescente: 879,5250 milisegundos
+selection em array decrescente: 897,4617 milisegundos
 
 ------------------- Execução 5 -----------------
 
-selection em array aleatório: 877.3165 milisegundos
-selection em array crescente: 889.5497 milisegundos
-selection em array decrescente: 897.5915 milisegundos
+selection em array aleatório: 877,3165 milisegundos
+selection em array crescente: 889,5497 milisegundos
+selection em array decrescente: 897,5915 milisegundos
 
 
 
@@ -118,33 +118,33 @@ Executando selection sort com array de 100000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-selection em array aleatório: 8128.6917 milisegundos
-selection em array crescente: 9718.9949 milisegundos
-selection em array decrescente: 10308.0596 milisegundos
+selection em array aleatório: 8128,6917 milisegundos
+selection em array crescente: 9718,9949 milisegundos
+selection em array decrescente: 10308,0596 milisegundos
 
 ------------------- Execução 2 -----------------
 
-selection em array aleatório: 9741.4674 milisegundos
-selection em array crescente: 9727.0736 milisegundos
-selection em array decrescente: 10299.0415 milisegundos
+selection em array aleatório: 9741,4674 milisegundos
+selection em array crescente: 9727,0736 milisegundos
+selection em array decrescente: 10299,0415 milisegundos
 
 ------------------- Execução 3 -----------------
 
-selection em array aleatório: 9756.5892 milisegundos
-selection em array crescente: 9729.1674 milisegundos
-selection em array decrescente: 10317.4348 milisegundos
+selection em array aleatório: 9756,5892 milisegundos
+selection em array crescente: 9729,1674 milisegundos
+selection em array decrescente: 10317,4348 milisegundos
 
 ------------------- Execução 4 -----------------
 
-selection em array aleatório: 9743.9581 milisegundos
-selection em array crescente: 9727.2713 milisegundos
-selection em array decrescente: 10323.7747 milisegundos
+selection em array aleatório: 9743,9581 milisegundos
+selection em array crescente: 9727,2713 milisegundos
+selection em array decrescente: 10323,7747 milisegundos
 
 ------------------- Execução 5 -----------------
 
-selection em array aleatório: 9735.0385 milisegundos
-selection em array crescente: 9741.6138 milisegundos
-selection em array decrescente: 10328.8885 milisegundos
+selection em array aleatório: 9735,0385 milisegundos
+selection em array crescente: 9741,6138 milisegundos
+selection em array decrescente: 10328,8885 milisegundos
 
 
 
@@ -157,33 +157,33 @@ Executando selection sort com array de 200000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-selection em array aleatório: 33049.2243 milisegundos
-selection em array crescente: 41849.6554 milisegundos
-selection em array decrescente: 42627.5344 milisegundos
+selection em array aleatório: 33049,2243 milisegundos
+selection em array crescente: 41849,6554 milisegundos
+selection em array decrescente: 42627,5344 milisegundos
 
 ------------------- Execução 2 -----------------
 
-selection em array aleatório: 40259.9058 milisegundos
-selection em array crescente: 38918.3209 milisegundos
-selection em array decrescente: 41449.8867 milisegundos
+selection em array aleatório: 40259,9058 milisegundos
+selection em array crescente: 38918,3209 milisegundos
+selection em array decrescente: 41449,8867 milisegundos
 
 ------------------- Execução 3 -----------------
 
-selection em array aleatório: 39073.7487 milisegundos
-selection em array crescente: 38912.4686 milisegundos
-selection em array decrescente: 41418.7622 milisegundos
+selection em array aleatório: 39073,7487 milisegundos
+selection em array crescente: 38912,4686 milisegundos
+selection em array decrescente: 41418,7622 milisegundos
 
 ------------------- Execução 4 -----------------
 
-selection em array aleatório: 38952.5230 milisegundos
-selection em array crescente: 39072.9352 milisegundos
-selection em array decrescente: 41489.4381 milisegundos
+selection em array aleatório: 38952,5230 milisegundos
+selection em array crescente: 39072,9352 milisegundos
+selection em array decrescente: 41489,4381 milisegundos
 
 ------------------- Execução 5 -----------------
 
-selection em array aleatório: 38920.5851 milisegundos
-selection em array crescente: 38897.6487 milisegundos
-selection em array decrescente: 42612.8178 milisegundos
+selection em array aleatório: 38920,5851 milisegundos
+selection em array crescente: 38897,6487 milisegundos
+selection em array decrescente: 42612,8178 milisegundos
 
 
 
@@ -195,33 +195,33 @@ Executando selection sort com array de 300000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-selection em array aleatório: 73476.9932 milisegundos
-selection em array crescente: 87892.0801 milisegundos
-selection em array decrescente: 93517.0943 milisegundos
+selection em array aleatório: 73476,9932 milisegundos
+selection em array crescente: 87892,0801 milisegundos
+selection em array decrescente: 93517,0943 milisegundos
 
 ------------------- Execução 2 -----------------
 
-selection em array aleatório: 87956.6423 milisegundos
-selection em array crescente: 88275.9882 milisegundos
-selection em array decrescente: 94231.7109 milisegundos
+selection em array aleatório: 87956,6423 milisegundos
+selection em array crescente: 88275,9882 milisegundos
+selection em array decrescente: 94231,7109 milisegundos
 
 ------------------- Execução 3 -----------------
 
-selection em array aleatório: 88461.1711 milisegundos
-selection em array crescente: 87955.2692 milisegundos
-selection em array decrescente: 93657.2504 milisegundos
+selection em array aleatório: 88461,1711 milisegundos
+selection em array crescente: 87955,2692 milisegundos
+selection em array decrescente: 93657,2504 milisegundos
 
 ------------------- Execução 4 -----------------
 
-selection em array aleatório: 87848.7555 milisegundos
-selection em array crescente: 87783.6655 milisegundos
-selection em array decrescente: 93523.3363 milisegundos
+selection em array aleatório: 87848,7555 milisegundos
+selection em array crescente: 87783,6655 milisegundos
+selection em array decrescente: 93523,3363 milisegundos
 
 ------------------- Execução 5 -----------------
 
-selection em array aleatório: 88361.4186 milisegundos
-selection em array crescente: 91305.6946 milisegundos
-selection em array decrescente: 95586.0018 milisegundos
+selection em array aleatório: 88361,4186 milisegundos
+selection em array crescente: 91305,6946 milisegundos
+selection em array decrescente: 95586,0018 milisegundos
 
 
 
@@ -233,146 +233,33 @@ Executando selection sort com array de 1000000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-selection em array aleatório: 897469.3798 milisegundos
-selection em array crescente: 1022585.9356 milisegundos
-selection em array decrescente: 1098447.9822 milisegundos
+selection em array aleatório: 897469,3798 milisegundos
+selection em array crescente: 1022585,9356 milisegundos
+selection em array decrescente: 1098447,9822 milisegundos
 
 ------------------- Execução 2 -----------------
 
-selection em array aleatório: 1022202.9458 milisegundos
-selection em array crescente: 1017474.7688 milisegundos
-selection em array decrescente: 1119790.5537 milisegundos
+selection em array aleatório: 1022202,9458 milisegundos
+selection em array crescente: 1017474,7688 milisegundos
+selection em array decrescente: 1119790,5537 milisegundos
 
 ------------------- Execução 3 -----------------
 
-selection em array aleatório: 861106.5572 milisegundos
-selection em array crescente: 1017324.1406 milisegundos
-selection em array decrescente: 1088364.7697 milisegundos
+selection em array aleatório: 861106,5572 milisegundos
+selection em array crescente: 1017324,1406 milisegundos
+selection em array decrescente: 1088364,7697 milisegundos
 
 ------------------- Execução 4 -----------------
 
-selection em array aleatório: 1018466.3790 milisegundos
-selection em array crescente: 1041743.9650 milisegundos
- selection em array decrescente: 1100648.4268 milisegundos
+selection em array aleatório: 1018466,3790 milisegundos
+selection em array crescente: 1041743,9650 milisegundos
+ selection em array decrescente: 1100648,4268 milisegundos
 
 ------------------- Execução 5 -----------------
 
-selection em array aleatório: 1019795.3563 milisegundos
-selection em array crescente: 1020015.8929 milisegundos
-selection em array decrescente: 1090151.7367 milisegundos
-
-
-
-
-
-
-Executando selection sort com array de 1000 elementos 5 vezes
-
-------------------- Execução 1 -----------------
-
-selection em array aleatório: 4.0922 milisegundos
-selection em array crescente: 3.4599 milisegundos
-selection em array decrescente: 1.0149 milisegundos
-
-------------------- Execução 2 -----------------
-
-selection em array aleatório: 1.0521 milisegundos
-selection em array crescente: 1.0666 milisegundos
-selection em array decrescente: 1.2483 milisegundos
-
-------------------- Execução 3 -----------------
-
-selection em array aleatório: 1.6093 milisegundos
-selection em array crescente: 1.4281 milisegundos
-selection em array decrescente: 1.1326 milisegundos
-
-------------------- Execução 4 -----------------
-
-selection em array aleatório: 1.0528 milisegundos
-selection em array crescente: 1.0410 milisegundos
-selection em array decrescente: 1.0986 milisegundos
-
-------------------- Execução 5 -----------------
-
-selection em array aleatório: 1.0538 milisegundos
-selection em array crescente: 1.0211 milisegundos
-selection em array decrescente: 1.0058 milisegundos
-
-
-
-
-
-
-Executando selection sort com array de 2000 elementos 5 vezes
-
-------------------- Execução 1 -----------------
-
-selection em array aleatório: 8.1220 milisegundos
-selection em array crescente: 6.4344 milisegundos
-selection em array decrescente: 4.5430 milisegundos
-
-------------------- Execução 2 -----------------
-
-selection em array aleatório: 4.0575 milisegundos
-selection em array crescente: 4.0329 milisegundos
-selection em array decrescente: 4.1472 milisegundos
-
-------------------- Execução 3 -----------------
-
-selection em array aleatório: 4.0528 milisegundos
-selection em array crescente: 4.0414 milisegundos
-selection em array decrescente: 4.0493 milisegundos
-
-------------------- Execução 4 -----------------
-
-selection em array aleatório: 4.0558 milisegundos
-selection em array crescente: 5.3427 milisegundos
-selection em array decrescente: 5.6095 milisegundos
-
-------------------- Execução 5 -----------------
-
-selection em array aleatório: 4.8280 milisegundos
-selection em array crescente: 4.6199 milisegundos
-selection em array decrescente: 9.1353 milisegundos
-
-
-
-
-
-
-Executando selection sort com array de 3000 elementos 5 vezes
-
-------------------- Execução 1 -----------------
-
-selection em array aleatório: 15.5892 milisegundos
-selection em array crescente: 12.6356 milisegundos
-selection em array decrescente: 9.3530 milisegundos
-
-------------------- Execução 2 -----------------
-
-selection em array aleatório: 9.8351 milisegundos
-selection em array crescente: 10.3277 milisegundos
-selection em array decrescente: 16.5881 milisegundos
-
-------------------- Execução 3 -----------------
-
-selection em array aleatório: 8.9904 milisegundos
-selection em array crescente: 11.9405 milisegundos
-selection em array decrescente: 9.4165 milisegundos
-
-------------------- Execução 4 -----------------
-
-selection em array aleatório: 9.0042 milisegundos
-selection em array crescente: 12.5157 milisegundos
-selection em array decrescente: 9.4730 milisegundos
-
-------------------- Execução 5 -----------------
-
-selection em array aleatório: 9.0054 milisegundos
-selection em array crescente: 9.6579 milisegundos
-selection em array decrescente: 11.0955 milisegundos
-
-
+selection em array aleatório: 1019795,3563 milisegundos
+selection em array crescente: 1020015,8929 milisegundos
+selection em array decrescente: 1090151,7367 milisegundos
 
 
 

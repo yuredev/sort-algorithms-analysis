@@ -2,228 +2,228 @@ Executando merge sort com array de 10000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-merge em array aleatório: 14.3523 milisegundos
-merge em array crescente: 10.9615 milisegundos
-merge em array decrescente: 7.5487 milisegundos
+merge em array aleatório: 14,3523 milisegundos
+merge em array crescente: 10,9615 milisegundos
+merge em array decrescente: 7,5487 milisegundos
 
 ------------------- Execução 2 -----------------
 
-merge em array aleatório: 20.3986 milisegundos
-merge em array crescente: 10.3190 milisegundos
-merge em array decrescente: 7.8675 milisegundos
+merge em array aleatório: 20,3986 milisegundos
+merge em array crescente: 10,3190 milisegundos
+merge em array decrescente: 7,8675 milisegundos
 
 ------------------- Execução 3 -----------------
 
-merge em array aleatório: 25.8383 milisegundos
-merge em array crescente: 6.5869 milisegundos
-merge em array decrescente: 7.7954 milisegundos
+merge em array aleatório: 25,8383 milisegundos
+merge em array crescente: 6,5869 milisegundos
+merge em array decrescente: 7,7954 milisegundos
 
 ------------------- Execução 4 -----------------
 
-merge em array aleatório: 38.1920 milisegundos
-merge em array crescente: 15.6296 milisegundos
-merge em array decrescente: 14.9164 milisegundos
+merge em array aleatório: 38,1920 milisegundos
+merge em array crescente: 15,6296 milisegundos
+merge em array decrescente: 14,9164 milisegundos
 
 ------------------- Execução 5 -----------------
 
-merge em array aleatório: 35.5082 milisegundos
-merge em array crescente: 9.3194 milisegundos
-merge em array decrescente: 10.1543 milisegundos
+merge em array aleatório: 35,5082 milisegundos
+merge em array crescente: 9,3194 milisegundos
+merge em array decrescente: 10,1543 milisegundos
 
 Executando merge sort com array de 20000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-merge em array aleatório: 28.2381 milisegundos
-merge em array crescente: 29.2519 milisegundos
-merge em array decrescente: 15.9353 milisegundos
+merge em array aleatório: 28,2381 milisegundos
+merge em array crescente: 29,2519 milisegundos
+merge em array decrescente: 15,9353 milisegundos
 
 ------------------- Execução 2 -----------------
 
-merge em array aleatório: 19.4857 milisegundos
-merge em array crescente: 18.4614 milisegundos
-merge em array decrescente: 16.9243 milisegundos
+merge em array aleatório: 19,4857 milisegundos
+merge em array crescente: 18,4614 milisegundos
+merge em array decrescente: 16,9243 milisegundos
 
 ------------------- Execução 3 -----------------
 
-merge em array aleatório: 40.8578 milisegundos
-merge em array crescente: 16.4956 milisegundos
-merge em array decrescente: 15.6428 milisegundos
+merge em array aleatório: 40,8578 milisegundos
+merge em array crescente: 16,4956 milisegundos
+merge em array decrescente: 15,6428 milisegundos
 
 ------------------- Execução 4 -----------------
 
-merge em array aleatório: 32.9986 milisegundos
-merge em array crescente: 16.7767 milisegundos
-merge em array decrescente: 18.6853 milisegundos
+merge em array aleatório: 32,9986 milisegundos
+merge em array crescente: 16,7767 milisegundos
+merge em array decrescente: 18,6853 milisegundos
 
 ------------------- Execução 5 -----------------
 
-merge em array aleatório: 57.7558 milisegundos
-merge em array crescente: 21.4523 milisegundos
-merge em array decrescente: 24.7041 milisegundos
+merge em array aleatório: 57,7558 milisegundos
+merge em array crescente: 21,4523 milisegundos
+merge em array decrescente: 24,7041 milisegundos
 
 Executando merge sort com array de 30000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-merge em array aleatório: 41.0979 milisegundos
-merge em array crescente: 40.7794 milisegundos
-merge em array decrescente: 40.5582 milisegundos
+merge em array aleatório: 41,0979 milisegundos
+merge em array crescente: 40,7794 milisegundos
+merge em array decrescente: 40,5582 milisegundos
 
 ------------------- Execução 2 -----------------
 
-merge em array aleatório: 53.1444 milisegundos
-merge em array crescente: 31.7938 milisegundos
-merge em array decrescente: 33.2340 milisegundos
+merge em array aleatório: 53,1444 milisegundos
+merge em array crescente: 31,7938 milisegundos
+merge em array decrescente: 33,2340 milisegundos
 
 ------------------- Execução 3 -----------------
 
-merge em array aleatório: 68.0486 milisegundos
-merge em array crescente: 28.6972 milisegundos
-merge em array decrescente: 30.9635 milisegundos
+merge em array aleatório: 68,0486 milisegundos
+merge em array crescente: 28,6972 milisegundos
+merge em array decrescente: 30,9635 milisegundos
 
 ------------------- Execução 4 -----------------
 
-merge em array aleatório: 27.5006 milisegundos
-merge em array crescente: 29.0385 milisegundos
-merge em array decrescente: 27.7986 milisegundos
+merge em array aleatório: 27,5006 milisegundos
+merge em array crescente: 29,0385 milisegundos
+merge em array decrescente: 27,7986 milisegundos
 
 ------------------- Execução 5 -----------------
 
-merge em array aleatório: 28.9924 milisegundos
-merge em array crescente: 26.6509 milisegundos
-merge em array decrescente: 33.3916 milisegundos
+merge em array aleatório: 28,9924 milisegundos
+merge em array crescente: 26,6509 milisegundos
+merge em array decrescente: 33,3916 milisegundos
 
 
 Executando merge sort com array de 100000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-merge em array aleatório: 114.7016 milisegundos
-merge em array crescente: 112.9622 milisegundos
-merge em array decrescente: 91.1142 milisegundos
+merge em array aleatório: 114,7016 milisegundos
+merge em array crescente: 112,9622 milisegundos
+merge em array decrescente: 91,1142 milisegundos
 
 ------------------- Execução 2 -----------------
 
-merge em array aleatório: 156.4223 milisegundos
-merge em array crescente: 95.6518 milisegundos
-merge em array decrescente: 92.9675 milisegundos
+merge em array aleatório: 156,4223 milisegundos
+merge em array crescente: 95,6518 milisegundos
+merge em array decrescente: 92,9675 milisegundos
 
 ------------------- Execução 3 -----------------
 
-merge em array aleatório: 117.9838 milisegundos
-merge em array crescente: 95.1551 milisegundos
-merge em array decrescente: 92.8138 milisegundos
+merge em array aleatório: 117,9838 milisegundos
+merge em array crescente: 95,1551 milisegundos
+merge em array decrescente: 92,8138 milisegundos
 
 ------------------- Execução 4 -----------------
 
-merge em array aleatório: 113.6615 milisegundos
-merge em array crescente: 99.4178 milisegundos
-merge em array decrescente: 93.8514 milisegundos
+merge em array aleatório: 113,6615 milisegundos
+merge em array crescente: 99,4178 milisegundos
+merge em array decrescente: 93,8514 milisegundos
 
 ------------------- Execução 5 -----------------
 
-merge em array aleatório: 163.5192 milisegundos
-merge em array crescente: 136.4901 milisegundos
-merge em array decrescente: 107.7078 milisegundos
+merge em array aleatório: 163,5192 milisegundos
+merge em array crescente: 136,4901 milisegundos
+merge em array decrescente: 107,7078 milisegundos
 
 
 Executando merge sort com array de 200000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-merge em array aleatório: 236.3684 milisegundos
-merge em array crescente: 211.0868 milisegundos
-merge em array decrescente: 187.5604 milisegundos
+merge em array aleatório: 236,3684 milisegundos
+merge em array crescente: 211,0868 milisegundos
+merge em array decrescente: 187,5604 milisegundos
 
 ------------------- Execução 2 -----------------
 
-merge em array aleatório: 257.7839 milisegundos
-merge em array crescente: 211.1626 milisegundos
-merge em array decrescente: 205.0198 milisegundos
+merge em array aleatório: 257,7839 milisegundos
+merge em array crescente: 211,1626 milisegundos
+merge em array decrescente: 205,0198 milisegundos
 
 ------------------- Execução 3 -----------------
 
-merge em array aleatório: 254.9182 milisegundos
-merge em array crescente: 197.1400 milisegundos
-merge em array decrescente: 202.1012 milisegundos
+merge em array aleatório: 254,9182 milisegundos
+merge em array crescente: 197,1400 milisegundos
+merge em array decrescente: 202,1012 milisegundos
 
 ------------------- Execução 4 -----------------
 
-merge em array aleatório: 223.0970 milisegundos
-merge em array crescente: 188.7272 milisegundos
-merge em array decrescente: 191.7408 milisegundos
+merge em array aleatório: 223,0970 milisegundos
+merge em array crescente: 188,7272 milisegundos
+merge em array decrescente: 191,7408 milisegundos
 
 ------------------- Execução 5 -----------------
 
-merge em array aleatório: 246.3009 milisegundos
-merge em array crescente: 202.5532 milisegundos
-merge em array decrescente: 195.0221 milisegundos
+merge em array aleatório: 246,3009 milisegundos
+merge em array crescente: 202,5532 milisegundos
+merge em array decrescente: 195,0221 milisegundos
 
 
 Executando merge sort com array de 300000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-merge em array aleatório: 339.2491 milisegundos
-merge em array crescente: 306.6340 milisegundos
-merge em array decrescente: 298.5265 milisegundos
+merge em array aleatório: 339,2491 milisegundos
+merge em array crescente: 306,6340 milisegundos
+merge em array decrescente: 298,5265 milisegundos
 
 ------------------- Execução 2 -----------------
 
-merge em array aleatório: 349.8204 milisegundos
-merge em array crescente: 309.8880 milisegundos
-merge em array decrescente: 318.9210 milisegundos
+merge em array aleatório: 349,8204 milisegundos
+merge em array crescente: 309,8880 milisegundos
+merge em array decrescente: 318,9210 milisegundos
 
 ------------------- Execução 3 -----------------
 
-merge em array aleatório: 364.0220 milisegundos
-merge em array crescente: 303.5600 milisegundos
-merge em array decrescente: 335.5971 milisegundos
+merge em array aleatório: 364,0220 milisegundos
+merge em array crescente: 303,5600 milisegundos
+merge em array decrescente: 335,5971 milisegundos
 
 ------------------- Execução 4 -----------------
 
-merge em array aleatório: 417.1801 milisegundos
-merge em array crescente: 303.5527 milisegundos
-merge em array decrescente: 313.6703 milisegundos
+merge em array aleatório: 417,1801 milisegundos
+merge em array crescente: 303,5527 milisegundos
+merge em array decrescente: 313,6703 milisegundos
 
 ------------------- Execução 5 -----------------
 
-merge em array aleatório: 393.4761 milisegundos
-merge em array crescente: 312.8453 milisegundos
-merge em array decrescente: 296.1146 milisegundos
+merge em array aleatório: 393,4761 milisegundos
+merge em array crescente: 312,8453 milisegundos
+merge em array decrescente: 296,1146 milisegundos
 
 
 Executando merge sort com array de 1000000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-merge em array aleatório: 1331.5952 milisegundos
-merge em array crescente: 1101.4612 milisegundos
-merge em array decrescente: 1021.3767 milisegundos
+merge em array aleatório: 1331,5952 milisegundos
+merge em array crescente: 1101,4612 milisegundos
+merge em array decrescente: 1021,3767 milisegundos
 
 ------------------- Execução 2 -----------------
 
-merge em array aleatório: 1241.0868 milisegundos
-merge em array crescente: 1028.9324 milisegundos
-merge em array decrescente: 1119.7576 milisegundos
+merge em array aleatório: 1241,0868 milisegundos
+merge em array crescente: 1028,9324 milisegundos
+merge em array decrescente: 1119,7576 milisegundos
 
 ------------------- Execução 3 -----------------
 
-merge em array aleatório: 1205.3678 milisegundos
-merge em array crescente: 1054.0580 milisegundos
-merge em array decrescente: 1129.2553 milisegundos
+merge em array aleatório: 1205,3678 milisegundos
+merge em array crescente: 1054,0580 milisegundos
+merge em array decrescente: 1129,2553 milisegundos
 
 ------------------- Execução 4 -----------------
 
-merge em array aleatório: 1288.1863 milisegundos
-merge em array crescente: 1090.9482 milisegundos
-merge em array decrescente: 1328.8812 milisegundos
+merge em array aleatório: 1288,1863 milisegundos
+merge em array crescente: 1090,9482 milisegundos
+merge em array decrescente: 1328,8812 milisegundos
 
 ------------------- Execução 5 -----------------
 
-merge em array aleatório: 1504.3170 milisegundos
-merge em array crescente: 1630.5252 milisegundos
-merge em array decrescente: 1460.1962 milisegundos
+merge em array aleatório: 1504,3170 milisegundos
+merge em array crescente: 1630,5252 milisegundos
+merge em array decrescente: 1460,1962 milisegundos
 
 

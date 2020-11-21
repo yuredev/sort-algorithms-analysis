@@ -3,33 +3,33 @@ Executando quick sort com array de 10000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-quick em array aleatório: 8.0219 milisegundos
-quick em array crescente: 2.1377 milisegundos
-quick em array decrescente: 0.4027 milisegundos
+quick em array aleatório: 8,0219 milisegundos
+quick em array crescente: 2,1377 milisegundos
+quick em array decrescente: 0,4027 milisegundos
 
 ------------------- Execução 2 -----------------
 
-quick em array aleatório: 1.0665 milisegundos
-quick em array crescente: 0.5960 milisegundos
-quick em array decrescente: 0.5126 milisegundos
+quick em array aleatório: 1,0665 milisegundos
+quick em array crescente: 0,5960 milisegundos
+quick em array decrescente: 0,5126 milisegundos
 
 ------------------- Execução 3 -----------------
 
-quick em array aleatório: 1.2494 milisegundos
-quick em array crescente: 0.5061 milisegundos
-quick em array decrescente: 0.4417 milisegundos
+quick em array aleatório: 1,2494 milisegundos
+quick em array crescente: 0,5061 milisegundos
+quick em array decrescente: 0,4417 milisegundos
 
 ------------------- Execução 4 -----------------
 
-quick em array aleatório: 1.1221 milisegundos
-quick em array crescente: 0.4311 milisegundos
-quick em array decrescente: 0.3892 milisegundos
+quick em array aleatório: 1,1221 milisegundos
+quick em array crescente: 0,4311 milisegundos
+quick em array decrescente: 0,3892 milisegundos
 
 ------------------- Execução 5 -----------------
 
-quick em array aleatório: 1.1491 milisegundos
-quick em array crescente: 0.4433 milisegundos
-quick em array decrescente: 0.3977 milisegundos
+quick em array aleatório: 1,1491 milisegundos
+quick em array crescente: 0,4433 milisegundos
+quick em array decrescente: 0,3977 milisegundos
 
 
 
@@ -37,33 +37,33 @@ Executando quick sort com array de 20000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-quick em array aleatório: 10.6501 milisegundos
-quick em array crescente: 0.9331 milisegundos
-quick em array decrescente: 0.8969 milisegundos
+quick em array aleatório: 10,6501 milisegundos
+quick em array crescente: 0,9331 milisegundos
+quick em array decrescente: 0,8969 milisegundos
 
 ------------------- Execução 2 -----------------
 
-quick em array aleatório: 2.4109 milisegundos
-quick em array crescente: 0.9249 milisegundos
-quick em array decrescente: 0.8441 milisegundos
+quick em array aleatório: 2,4109 milisegundos
+quick em array crescente: 0,9249 milisegundos
+quick em array decrescente: 0,8441 milisegundos
 
 ------------------- Execução 3 -----------------
 
-quick em array aleatório: 2.5056 milisegundos
-quick em array crescente: 0.9428 milisegundos
-quick em array decrescente: 0.8608 milisegundos
+quick em array aleatório: 2,5056 milisegundos
+quick em array crescente: 0,9428 milisegundos
+quick em array decrescente: 0,8608 milisegundos
 
 ------------------- Execução 4 -----------------
 
-quick em array aleatório: 2.4850 milisegundos
-quick em array crescente: 1.0294 milisegundos
-quick em array decrescente: 1.1673 milisegundos
+quick em array aleatório: 2,4850 milisegundos
+quick em array crescente: 1,0294 milisegundos
+quick em array decrescente: 1,1673 milisegundos
 
 ------------------- Execução 5 -----------------
 
-quick em array aleatório: 2.4814 milisegundos
-quick em array crescente: 1.0037 milisegundos
-quick em array decrescente: 0.9854 milisegundos
+quick em array aleatório: 2,4814 milisegundos
+quick em array crescente: 1,0037 milisegundos
+quick em array decrescente: 0,9854 milisegundos
 
 
 
@@ -72,33 +72,33 @@ Executando quick sort com array de 30000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-quick em array aleatório: 15.7118 milisegundos
-quick em array crescente: 1.4214 milisegundos
-quick em array decrescente: 1.2897 milisegundos
+quick em array aleatório: 15,7118 milisegundos
+quick em array crescente: 1,4214 milisegundos
+quick em array decrescente: 1,2897 milisegundos
 
 ------------------- Execução 2 -----------------
 
-quick em array aleatório: 3.6881 milisegundos
-quick em array crescente: 1.4234 milisegundos
-quick em array decrescente: 1.2969 milisegundos
+quick em array aleatório: 3,6881 milisegundos
+quick em array crescente: 1,4234 milisegundos
+quick em array decrescente: 1,2969 milisegundos
 
 ------------------- Execução 3 -----------------
 
-quick em array aleatório: 3.7152 milisegundos
-quick em array crescente: 1.4109 milisegundos
-quick em array decrescente: 1.2885 milisegundos
+quick em array aleatório: 3,7152 milisegundos
+quick em array crescente: 1,4109 milisegundos
+quick em array decrescente: 1,2885 milisegundos
 
 ------------------- Execução 4 -----------------
 
-quick em array aleatório: 3.7782 milisegundos
-quick em array crescente: 1.4673 milisegundos
-quick em array decrescente: 1.3317 milisegundos
+quick em array aleatório: 3,7782 milisegundos
+quick em array crescente: 1,4673 milisegundos
+quick em array decrescente: 1,3317 milisegundos
 
 ------------------- Execução 5 -----------------
 
-quick em array aleatório: 3.7880 milisegundos
-quick em array crescente: 1.5760 milisegundos
-quick em array decrescente: 2.1476 milisegundos
+quick em array aleatório: 3,7880 milisegundos
+quick em array crescente: 1,5760 milisegundos
+quick em array decrescente: 2,1476 milisegundos
 
 
 
@@ -107,66 +107,66 @@ Executando quick sort com array de 100000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-quick em array aleatório: 21.4259 milisegundos
-quick em array crescente: 4.7695 milisegundos
-quick em array decrescente: 4.7090 milisegundos
+quick em array aleatório: 21,4259 milisegundos
+quick em array crescente: 4,7695 milisegundos
+quick em array decrescente: 4,7090 milisegundos
 
 ------------------- Execução 2 -----------------
 
-quick em array aleatório: 13.7944 milisegundos
-quick em array crescente: 5.0113 milisegundos
-quick em array decrescente: 4.8658 milisegundos
+quick em array aleatório: 13,7944 milisegundos
+quick em array crescente: 5,0113 milisegundos
+quick em array decrescente: 4,8658 milisegundos
 
 ------------------- Execução 3 -----------------
 
-quick em array aleatório: 13.2489 milisegundos
-quick em array crescente: 4.7785 milisegundos
-quick em array decrescente: 5.3923 milisegundos
+quick em array aleatório: 13,2489 milisegundos
+quick em array crescente: 4,7785 milisegundos
+quick em array decrescente: 5,3923 milisegundos
 
 ------------------- Execução 4 -----------------
 
-quick em array aleatório: 18.8999 milisegundos
-quick em array crescente: 6.7686 milisegundos
-quick em array decrescente: 8.3076 milisegundos
+quick em array aleatório: 18,8999 milisegundos
+quick em array crescente: 6,7686 milisegundos
+quick em array decrescente: 8,3076 milisegundos
 
 ------------------- Execução 5 -----------------
 
-quick em array aleatório: 18.3237 milisegundos
-quick em array crescente: 6.2739 milisegundos
-quick em array decrescente: 6.7388 milisegundos
+quick em array aleatório: 18,3237 milisegundos
+quick em array crescente: 6,2739 milisegundos
+quick em array decrescente: 6,7388 milisegundos
 
 
 Executando quick sort com array de 200000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-quick em array aleatório: 43.4158 milisegundos
-quick em array crescente: 11.6942 milisegundos
-quick em array decrescente: 12.2574 milisegundos
+quick em array aleatório: 43,4158 milisegundos
+quick em array crescente: 11,6942 milisegundos
+quick em array decrescente: 12,2574 milisegundos
 
 ------------------- Execução 2 -----------------
 
-quick em array aleatório: 30.0034 milisegundos
-quick em array crescente: 10.1528 milisegundos
-quick em array decrescente: 9.9988 milisegundos
+quick em array aleatório: 30,0034 milisegundos
+quick em array crescente: 10,1528 milisegundos
+quick em array decrescente: 9,9988 milisegundos
 
 ------------------- Execução 3 -----------------
 
-quick em array aleatório: 39.0315 milisegundos
-quick em array crescente: 12.5246 milisegundos
-quick em array decrescente: 12.5629 milisegundos
+quick em array aleatório: 39,0315 milisegundos
+quick em array crescente: 12,5246 milisegundos
+quick em array decrescente: 12,5629 milisegundos
 
 ------------------- Execução 4 -----------------
 
-quick em array aleatório: 30.7432 milisegundos
-quick em array crescente: 11.1111 milisegundos
-quick em array decrescente: 10.8996 milisegundos
+quick em array aleatório: 30,7432 milisegundos
+quick em array crescente: 11,1111 milisegundos
+quick em array decrescente: 10,8996 milisegundos
 
 ------------------- Execução 5 -----------------
 
-quick em array aleatório: 31.2093 milisegundos
-quick em array crescente: 10.5062 milisegundos
-quick em array decrescente: 10.5200 milisegundos
+quick em array aleatório: 31,2093 milisegundos
+quick em array crescente: 10,5062 milisegundos
+quick em array decrescente: 10,5200 milisegundos
 
 
 
@@ -174,66 +174,66 @@ Executando quick sort com array de 300000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-quick em array aleatório: 67.2135 milisegundos
-quick em array crescente: 19.1191 milisegundos
-quick em array decrescente: 21.0012 milisegundos
+quick em array aleatório: 67,2135 milisegundos
+quick em array crescente: 19,1191 milisegundos
+quick em array decrescente: 21,0012 milisegundos
 
 ------------------- Execução 2 -----------------
 
-quick em array aleatório: 50.4578 milisegundos
-quick em array crescente: 16.6895 milisegundos
-quick em array decrescente: 18.8506 milisegundos
+quick em array aleatório: 50,4578 milisegundos
+quick em array crescente: 16,6895 milisegundos
+quick em array decrescente: 18,8506 milisegundos
 
 ------------------- Execução 3 -----------------
 
-quick em array aleatório: 46.0172 milisegundos
-quick em array crescente: 15.4168 milisegundos
-quick em array decrescente: 16.5937 milisegundos
+quick em array aleatório: 46,0172 milisegundos
+quick em array crescente: 15,4168 milisegundos
+quick em array decrescente: 16,5937 milisegundos
 
 ------------------- Execução 4 -----------------
 
-quick em array aleatório: 44.7967 milisegundos
-quick em array crescente: 15.1176 milisegundos
-quick em array decrescente: 16.3266 milisegundos
+quick em array aleatório: 44,7967 milisegundos
+quick em array crescente: 15,1176 milisegundos
+quick em array decrescente: 16,3266 milisegundos
 
 ------------------- Execução 5 -----------------
 
-quick em array aleatório: 44.7350 milisegundos
-quick em array crescente: 14.9260 milisegundos
-quick em array decrescente: 15.6564 milisegundos
+quick em array aleatório: 44,7350 milisegundos
+quick em array crescente: 14,9260 milisegundos
+quick em array decrescente: 15,6564 milisegundos
 
 
 Executando quick sort com array de 1000000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
 
-quick em array aleatório: 175.9737 milisegundos
-quick em array crescente: 50.6369 milisegundos
-quick em array decrescente: 53.2630 milisegundos
+quick em array aleatório: 175,9737 milisegundos
+quick em array crescente: 50,6369 milisegundos
+quick em array decrescente: 53,2630 milisegundos
 
 ------------------- Execução 2 -----------------
 
-quick em array aleatório: 159.0593 milisegundos
-quick em array crescente: 50.5673 milisegundos
-quick em array decrescente: 52.8299 milisegundos
+quick em array aleatório: 159,0593 milisegundos
+quick em array crescente: 50,5673 milisegundos
+quick em array decrescente: 52,8299 milisegundos
 
 ------------------- Execução 3 -----------------
 
-quick em array aleatório: 161.7086 milisegundos
-quick em array crescente: 58.1269 milisegundos
-quick em array decrescente: 60.0667 milisegundos
+quick em array aleatório: 161,7086 milisegundos
+quick em array crescente: 58,1269 milisegundos
+quick em array decrescente: 60,0667 milisegundos
 
 ------------------- Execução 4 -----------------
 
-quick em array aleatório: 160.3276 milisegundos
-quick em array crescente: 57.9683 milisegundos
-quick em array decrescente: 60.8731 milisegundos
+quick em array aleatório: 160,3276 milisegundos
+quick em array crescente: 57,9683 milisegundos
+quick em array decrescente: 60,8731 milisegundos
 
 ------------------- Execução 5 -----------------
 
-quick em array aleatório: 157.1146 milisegundos
-quick em array crescente: 54.2611 milisegundos
-quick em array decrescente: 58.2140 milisegundos
+quick em array aleatório: 157,1146 milisegundos
+quick em array crescente: 54,2611 milisegundos
+quick em array decrescente: 58,2140 milisegundos
 
 
 

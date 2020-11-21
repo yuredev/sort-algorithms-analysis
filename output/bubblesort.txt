@@ -1,7 +1,7 @@
 Executando bubble sort com array de 300000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
-
+                            
 bubble em array aleatório: 170773.2960 milisegundos
 bubble em array crescente: 88225.4812 milisegundos
 bubble em array decrescente: 102510.1458 milisegundos
@@ -66,13 +66,6 @@ bubble em array decrescente: 1184348.5837 milisegundos
 bubble em array aleatório: 2190194.2759 milisegundos
 bubble em array crescente: 1099850.8665 milisegundos
 bubble em array decrescente: 1227647.3510 milisegundos
-
-
-
-
-
-
-
 
 
 

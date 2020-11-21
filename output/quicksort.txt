@@ -67,7 +67,6 @@ quick em array decrescente: 0.9854 milisegundos
 
 
 
-
 Executando quick sort com array de 30000 elementos 5 vezes
 
 ------------------- Execução 1 -----------------
